@@ -1,0 +1,20 @@
+Uri: https://alexdev-flowers.vercel.app/
+File Name: C:\Users\Windows\Documents\dylan\alexdev-flowers.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://alexdev-flowers.vercel.app/love.mp3
+File Name: C:\Users\Windows\Documents\dylan\alexdev-flowers.vercel.app\love.mp3
+Content Type: audio/mpeg
+
+Uri: https://alexdev-flowers.vercel.app/script.js
+File Name: C:\Users\Windows\Documents\dylan\alexdev-flowers.vercel.app\script.js
+Content Type: application/javascript
+
+Uri: https://alexdev-flowers.vercel.app/style.css
+File Name: C:\Users\Windows\Documents\dylan\alexdev-flowers.vercel.app\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lora:400,700|Lato:400,500
+File Name: C:\Users\Windows\Documents\dylan\alexdev-flowers.vercel.app\css
+Content Type: text/css
+
